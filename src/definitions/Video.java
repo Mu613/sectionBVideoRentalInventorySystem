@@ -25,4 +25,12 @@ public class Video {
      */
     public String getname()
        return"";
+
+    /**
+     * This method sets the checkout value of a video to true or false.
+     * If the value is set to true that means that a customer rented a video.
+     */
+    public void checkOut() {
+
+    }
 }
